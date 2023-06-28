@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding: 100px;
+}   
+header{
+    color: rgb(153, 255, 0);
+    text-align: center;
+    font-size: 60px;
+    
+}
+.logo{
+    padding: 60px;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.409);
+    width: 3200px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 60px;
+    height: 2000px;
+    
+}
+.input{
+    background-color: rgb(153, 255, 0);
+    border-radius: 5px;
+    text-align: center;
+    height: 30px;
+    padding: 60px;
+    margin: 100px;
+}
+button{
+     font-size: 40px;
+}
+.lista-monopattini{
+    list-style: square ;
+    color: white;
+    font-size: 50px;
+    margin: 150px;
+    text-align: left;
+}
+li{
+    font-size: 80px;
+}
+#hr1{
+    
+}
